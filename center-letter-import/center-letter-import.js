@@ -9,11 +9,7 @@ function solution(s) {
             answer=s.substr(min-1,2);
         }
             
-    }
-    
-    
-    
-    
+    }    
     
     return answer;
 }
